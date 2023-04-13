@@ -1,0 +1,53 @@
+{
+  "title":"QUE TIPO DE DESENVOLVEDOR VOCÊ SERIA? FRONT OU BACK? 🎨👨‍💻",
+  "questions":[
+    {
+      "id":1,
+      "question": "Você se interessa mais por qual tipo de jogo?",
+      "options":[
+        {"id": 1, "name":"TeamFigthTatics - (cartas)", "alias":"A"},
+        {"id": 2, "name":"The sims - (simulação)", "alias":"B"},
+        {"id": 3, "name":"Jogo da vida (tabuleiro)", "alias":"A"},
+        {"id": 4, "name":"Minecraft (criação)", "alias":"B"},
+        {"id": 5, "name":"xadrez (estratégia)", "alias":"A"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "O que é mais importante?",
+      "options":[
+        {"id": 1, "name":"Como fazer algo", "alias":"A"},
+        {"id": 2, "name":"O processo de criação", "alias":"A"},
+        {"id": 3, "name":"O resultado final, a cara do projeto.", "alias":"B"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "Quem na sua casa se importa mais com a estética dos ambientes?",
+      "options":[
+        {"id": 1, "name":"Eu", "alias":"B"},
+        {"id": 2, "name":"Outra pessoa", "alias":"A"}
+      ]
+    },
+    {
+      "id":4,
+      "question": "Você gosta de saber como as coisas funcionam por baixo dos panos?",
+      "options":[
+        {"id": 1, "name":"Sim, fico muito curioso com essa parte!", "alias":"A"},
+        {"id": 2, "name":"Na verdade, prefiro ver o resultado final.", "alias":"B"}
+      ]
+    },
+    {
+      "id":5,
+      "question": "Ao sair, eu sempre busco ver fotos dos lugares e saber como é o ambiente (estético) daquele lugar!",
+      "options":[
+        {"id": 1, "name":"Nunca fiz isso!", "alias":"A"},
+        {"id": 2, "name":"Geralmente eu faço isso.", "alias":"B"}
+      ]
+    }
+  ],
+  "results":{
+    "A": "Você muito provavelmente seria um Back-End!",
+    "B": "Você muito provavelmente seria um Front-End!"
+  }
+}
